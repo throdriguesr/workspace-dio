@@ -1,0 +1,3 @@
+Projeto final Menu Hamburguer. Utilizando Transition com HTML e CSS.
+
+- Desafio do Módulo 2 concluído com sucesso. 
